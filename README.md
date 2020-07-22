@@ -9,7 +9,9 @@
 <a href="https://twitter.com/sebbykurp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sebbykurp" height="50" width="50" /></a>
 <a href="https://linkedin.com/in/sebastiankurpiel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sebastiankurpiel" height="50" width="50" /></a>
 </p>
-
+<p align="center">
 | BLOGS :open_book: |
 | :--- |
-| [Getting rid of ugly scrollbars using Overlayscrollbars](https://dev.to/sebastiankurp/getting-rid-of-ugly-scrollbars-using-overlayscrollbars-21i) | [Capturing a click outside a Reason-React Component](https://dev.to/sebastiankurp/capturing-a-click-outside-a-reason-react-component-cp7) |
+| [Getting rid of ugly scrollbars using Overlayscrollbars](https://dev.to/sebastiankurp/getting-rid-of-ugly-scrollbars-using-overlayscrollbars-21i) 
+[Capturing a click outside a Reason-React Component](https://dev.to/sebastiankurp/capturing-a-click-outside-a-reason-react-component-cp7) |
+</p>
