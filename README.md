@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sebastian Jan Kurpiel</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sebastian Jan Kurpiel</h1>
 <h3 align="center">A passionate engineer that likes to think outside of the box since geometric shapes can be quite limiting 🤯</h3>
 <h3 align="center">Currently Building Solutions For Farmers Around The World @Syngenta</h3>
 <h3 align="center">👀You Can Find Me Here:</h3>
