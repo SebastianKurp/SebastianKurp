@@ -1,6 +1,10 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sebastian Jan Kurpiel</h1>
 <h3 align="center">A passionate engineer that likes to think outside of the box since geometric shapes can be quite limiting 🤯</h3>
 <h3 align="center">Currently Building Solutions For Farmers Around The World @Syngenta</h3>
+<h3 align="center">Tech I like to use:</h3>
+[<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>]()
+[<img src="https://img.shields.io/badge/typescript%20-%2320232a.svg?&style=for-the-badge&logo=typescript&logoColor=white&color=3178c6"/>]()
+[<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>]()
 <h3 align="center">👀You Can Find Me Here:</h3>
 <p align="center">
 <a href="https://dev.to/sebastiankurp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sebastiankurp" height="50" width="50" /></a>
