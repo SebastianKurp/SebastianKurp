@@ -3,13 +3,13 @@
 <h3 align="center">Currently Building Solutions For Farmers Around The World @Syngenta</h3>
 <h3 align="center">Tech I like to use:</h3>
 <div style="display:inline-block, text-align:center">
-  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/typescript%20-%2320232a.svg?&style=for-the-badge&logo=typescript&logoColor=white&color=3178c6"/>
-  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/Reason%20-%23323330.svg?&style=for-the-badge&logo=reason&&logoColor=white&color=DD4B39"/>
-  <img src="https://img.shields.io/badge/NodeJs%20-%23323330.svg?&style=for-the-badge&logo=node.js&logoColor=#339933"/>
-  <img src="https://img.shields.io/badge/graphql%20-%23323330.svg?&style=for-the-badge&logo=graphql&logoColor=E10098"/>
-  <img src="https://img.shields.io/badge/webgl%20-%23323330.svg?&style=for-the-badge&logo=webGl&logoColor=#990000"/>
+  <img style="display:inline-block" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img style="display:inline-block" src="https://img.shields.io/badge/typescript%20-%2320232a.svg?&style=for-the-badge&logo=typescript&logoColor=white&color=3178c6"/>
+  <img style="display:inline-block" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img style="display:inline-block" src="https://img.shields.io/badge/Reason%20-%23323330.svg?&style=for-the-badge&logo=reason&&logoColor=white&color=DD4B39"/>
+  <img style="display:inline-block" src="https://img.shields.io/badge/NodeJs%20-%23323330.svg?&style=for-the-badge&logo=node.js&logoColor=#339933"/>
+  <img style="display:inline-block" src="https://img.shields.io/badge/graphql%20-%23323330.svg?&style=for-the-badge&logo=graphql&logoColor=E10098"/>
+  <img style="display:inline-block" src="https://img.shields.io/badge/webgl%20-%23323330.svg?&style=for-the-badge&logo=webGl&logoColor=#990000"/>
 </div>
 <h3 align="center">👀You Can Find Me Here:</h3>
 <p align="center">
