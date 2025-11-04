@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sebastian Jan Kurpiel</h1>
 <h3 align="center">A passionate engineer that likes to think outside of the box since geometric shapes can be quite limiting 🤯</h3>
-<h3 align="center">Currently working at Feastables</h3>
+<h3 align="center">Currently working at Netflix</h3>
 <h3 align="center">Tech I like to use:</h3>
 <p align="center" width="100%">
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
