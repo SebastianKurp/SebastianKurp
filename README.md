@@ -13,11 +13,5 @@
 </p>
 <h3 align="center">👀You Can Find Me Here:</h3>
 <p align="center">
-  <a href="https://dev.to/sebastiankurp" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sebastiankurp" height="50" width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/sebbykurps" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sebbykurp" height="50" width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/sebastiankurpiel" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sebastiankurpiel" height="50" width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://unsplash.com/@sebbykurps" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unsplash.svg" alt="sebastiankurpiel" height="50" width="50" /></a>
+  <a href="https://dev.to/sebastiankurp" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sebastiankurp" height="50" width="50" /></a>&nbsp;&nbsp;<a href="https://twitter.com/sebbykurps" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sebbykurp" height="50" width="50" /></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/sebastiankurpiel" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sebastiankurpiel" height="50" width="50" /></a>&nbsp;&nbsp;<a href="https://unsplash.com/@sebbykurps" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unsplash.svg" alt="sebastiankurpiel" height="50" width="50" /></a>
 </p>
