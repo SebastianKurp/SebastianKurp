@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="wave">, I'm Sebastian Jan Kurpiel</h1>
 
-<h3 align="center">Engineer, photography nerd, and gamer. I like UIs with personality and systems that still make sense months later.</h3>
+<h3 align="center">Engineer, photography nerd, want to be race car driver, and gamer. I like UIs with personality and systems that still make sense months later.</h3>
 
 <h3 align="center">Currently crafting experiences at Netflix</h3>
 
