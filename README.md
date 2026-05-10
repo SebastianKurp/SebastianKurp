@@ -8,7 +8,7 @@
 
 Hey there!
 
-Welcome to my GitHub. I build software with a soft spot for clear interfaces, solid architecture, and shipping things that hold up in production. I’m into maps, modals, and the occasional over-the-top splash of inspiration (this profile’s Warcraft III login vibe didn’t happen by accident — Horde for the win). I stay curious about how AI tools can make day-to-day work sharper without replacing good taste or good judgment.
+Welcome to my GitHub. I build software with a soft spot for clear interfaces, solid architecture, and shipping things that hold up in production. I’m into maps, modals, and the occasional over-the-top splash of inspiration. I stay curious about how AI tools can make day-to-day work sharper without replacing good taste or good judgment. Also trying my hand at hardware(trying not to elecroute myself...)
 
 ### Tech I like to use
 
