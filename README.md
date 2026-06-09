@@ -8,7 +8,7 @@
 
 Hey there!
 
-Welcome to my GitHub. I build software with a soft spot for clear interfaces, solid architecture, and shipping things that hold up in production. I’m into maps, modals, and the occasional over-the-top splash of inspiration. I stay curious about how AI tools can make day-to-day work sharper without replacing good taste or good judgment. Also trying my hand at hardware(trying not to elecroute myself...)
+Welcome to my GitHub. I build software that is fun and engaging, while still being perfomative and able to scale. I’m into animations, maps, and creating interactive fun ui that makes you go "wow". Also trying my hand at hardware(trying not to elecroute myself...)
 
 ### Tech I like to use
 
@@ -30,7 +30,7 @@ Welcome to my GitHub. I build software with a soft spot for clear interfaces, so
 
 ### What I’m up to
 
-- Crafting product experiences at **Netflix**.
+- Crafting product experiences for fans at **Netflix**.
 - Tinkering with personal projects (maps, photography, and unapologetically nerdy UIs).
 - Writing occasionally — longer notes live on [my site](https://www.sebastiankurpiel.com) under **Writings** when I mirror them there.
 
